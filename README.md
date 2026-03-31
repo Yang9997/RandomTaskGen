@@ -67,6 +67,8 @@ RandomTaskGen/
     └── ...
 ```
 
+---
+
 ## 💡 自定义修改 (Customization)
 
 - **修改题库**：打开 `main.c`，找到顶部的 `const gchar* tasks[]` 数组，直接替换为你自己想挑战的任务即可。
